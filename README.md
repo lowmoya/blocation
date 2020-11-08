@@ -9,6 +9,9 @@ As this project is in open beta everything you see currently is subject to chang
 # Installation
 Download the jar from the latest release and move it to the 'plugins' folder in your server. When the server starts it will automatically download the 'blocation-blockgroups.json' and put it in the correct position.
 
+# Updating
+To update the plugin: repeat the installation steps. To update the blocklist: delete your local copy of it and it will be re-downloaded from this github.
+
 # Side Notes
 * There is an alias for the 'blocation' command for easier use, it is 'blc'.
 * At the beginning of every match all players will be teleported to the world spawn so please make sure it is a desirable location.

@@ -11,4 +11,5 @@ Download the jar from the latest release and move it to the Plugins folder in yo
 
 # Side Notes
 * There is an alias for the 'blocation' command for easier use, it is 'blc'.
-* At the beginning of every match all players will be teleported to the world spawn so please make sure it is a desirable location. This plugin is made with the Spigot API but it should work with most popular server 
+* At the beginning of every match all players will be teleported to the world spawn so please make sure it is a desirable location.
+* This plugin is made with the Spigot API but it should work with most popular server apis.

@@ -7,7 +7,7 @@ As this project is in open beta everything you see currently is subject to chang
 2. Run '/blocation stop' to stop the game at any time.
 
 # Installation
-Download the jar from the latest release and move it to the plugins folder in your server. When the server starts it will automatically download the 'blocation-blockgroups.json' and put it in the correct position.
+Download the jar from the latest release and move it to the 'plugins' folder in your server. When the server starts it will automatically download the 'blocation-blockgroups.json' and put it in the correct position.
 
 # Side Notes
 * There is an alias for the 'blocation' command for easier use, it is 'blc'.

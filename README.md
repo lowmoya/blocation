@@ -1,5 +1,5 @@
 # B-Location
-This is a minecraft minigame plugin where the objective is to find and stand on a randomly designated block before the time runs out.
+This is a 1.16.4 minecraft minigame plugin where the objective is to find and stand on a randomly designated block before the time runs out.
 As this project is in open beta everything you see currently is subject to change.
 
 # Useflow

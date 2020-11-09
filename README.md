@@ -1,6 +1,6 @@
 # B-Location
 This is a 1.16.4 minecraft minigame plugin where the objective is to find and stand on a randomly designated block before the time runs out.
-As this project is in open beta everything you see currently is subject to change.
+This project is in open beta, so everything you see is subject to change.
 
 # Useflow
 1. Run '/blocation start'. This will assign every player a random block, which will be shown on the scoreboard. Any player that does not stand on their block within the specified amount of time will be eliminated until there is either one or zero players left.
